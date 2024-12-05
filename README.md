@@ -3,7 +3,7 @@
 
 ## Table of contents
 
--[Surveillance Capitalism] (# surveillanceCapitalism)
+-[Surveillance Capitalism] (#surveillance-capitalism)
 
 ## Surveillance Capitalism 
 

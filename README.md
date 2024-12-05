@@ -5,8 +5,7 @@
 
 -Surveillance Capitalism
 
-
-### Surveillance Capitalism 
+## Surveillance Capitalism 
 
 The use of monitoring people’s online behaviors and using the data as monetization to sell to big tech companies for their marketing.
 

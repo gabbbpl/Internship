@@ -1,4 +1,4 @@
 #TO-DO LIST - Ethical Capitalism
-- [] Introduction (gab)
+- [ ] Introduction (gab)
   Issues
 

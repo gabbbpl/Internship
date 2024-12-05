@@ -5,6 +5,8 @@
 
 - [Surveillance Capitalism](#surveillance-capitalism)
 - [Applications that apply Surveillance Capitalism](#applications-that-apply-surveillance-capitalism)
+- [References](#references)
+> - [TO-DO List](#to-do-list---ethical-computing)
 
 ## Surveillance Capitalism 
 
@@ -19,12 +21,15 @@ These companies also hold personal information that only individuals must posses
 
 The two most suspected companies to use surveillance capitalism are [Google](https://www.google.com/) and [Facebook](https://facebook.com/)
 
-# TO-DO LIST - Ethical Computing
-Google Docs Link: https://docs.google.com/document/d/1bYN6qLsbRcoBtJF3hITylH0ab0MJfvenqn9qTR0N8Qg/edit?tab=t.0
-- [ ] Introduction (gab) <br/>
-## Issues
-- [ ] Surveillance Capitalism (james)
-- [ ] Applications that apply Surveillance Capitalism (james)
-- [ ] Alternatives to said applications (gab)
+## References
+- https://en.wikipedia.org/wiki/Surveillance_capitalism
 
-- [ ] Issues in A.I.
+> # TO-DO LIST - Ethical Computing
+> Google Docs Link: https://docs.google.com/document/d/1bYN6qLsbRcoBtJF3hITylH0ab0MJfvenqn9qTR0N8Qg/edit?tab=t.0
+> - [ ] Introduction (gab) <br/>
+> ## Issues
+> - [ ] Surveillance Capitalism (james)
+> - [ ] Applications that apply Surveillance Capitalism (james)
+> - [ ] Alternatives to said applications (gab)
+>
+> - [ ] Issues in A.I.

@@ -1,1 +1,4 @@
-# Hello! Welcome to my page!
+#TO-DO LIST - Ethical Capitalism
+- [] Introduction (gab)
+  Issues
+

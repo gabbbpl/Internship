@@ -4,6 +4,7 @@
 ## Table of contents
 
 - [Surveillance Capitalism](#surveillance-capitalism)
+- [Applications that apply Surveillance Capitalism](#applications-that-apply-surveillance-capitalism)
 
 ## Surveillance Capitalism 
 
@@ -13,6 +14,14 @@ With online platforms having a major contribution on how the modern world operat
 
 This poses a serious threat to all the users of the platform as it invades their privacy.
 These companies also hold personal information that only individuals must possess such as their passwords, email addresses, bank account and bank pins, information that only individuals must have knowledge of. By requiring such information as a way to create an account for said platforms, companies get ahold of their valuable data. These data can be easily sold by companies to other bigger companies that would like to obtain them to further boost their popularity and in turn, profits.
+
+## Applications that apply Surveillance Capitalism
+
+The two most suspected companies to use surveillance capitalism are 
+
+- [Google](https://www.google.com/) 
+- [Facebook](https://facebook.com/)
+
 
 
 

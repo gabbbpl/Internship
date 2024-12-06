@@ -56,6 +56,7 @@ These companies also hold personal information that only individuals must posses
 
 ## References
 - https://en.wikipedia.org/wiki/Surveillance_capitalism
+- https://www.techtarget.com/whatis/definition/surveillance-capitalism
 
 > # TO-DO LIST - Ethical Computing
 > Google Docs Link: https://docs.google.com/document/d/1bYN6qLsbRcoBtJF3hITylH0ab0MJfvenqn9qTR0N8Qg/edit?tab=t.0

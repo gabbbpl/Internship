@@ -5,6 +5,7 @@
 
 - [Surveillance Capitalism](#surveillance-capitalism)
 - [Applications that apply Surveillance Capitalism](#applications-that-apply-surveillance-capitalism)
+- [Alternatives to said application](#alternatives-to-said-applications)
 - [References](#references)
 > - [TO-DO List](#to-do-list---ethical-computing)
 
@@ -34,6 +35,23 @@ These companies also hold personal information that only individuals must posses
 ### Games
 1. Pokemon GO
 
+## Alternatives to said applications
+
+### Browsers
+1. Brave
+2. Arc
+3. Tor (The Onion Router)
+4. Firefox
+### Search Engines
+1. DuckDuckGo
+2. Brave Search
+3. Kagi
+### Email
+1. ProtonMail
+2. Tutanota
+### Messaging Apps
+1. Telegram
+2. Signal
 
 ## References
 - https://en.wikipedia.org/wiki/Surveillance_capitalism

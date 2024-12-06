@@ -22,7 +22,6 @@ These companies also hold personal information that only individuals must posses
 
 ### Google
 
-![Google Logo](https://www.flaticon.com/free-icon/google_2702602?term=website+logo&page=1&position=19&origin=tag&related_id=2702602)
 1. Google
 2. Chrome
 3. Gmail

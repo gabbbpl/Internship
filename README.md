@@ -19,7 +19,21 @@ These companies also hold personal information that only individuals must posses
 
 ## Applications that apply Surveillance Capitalism
 
-The two most suspected companies to use surveillance capitalism are [Google](https://www.google.com/) and [Facebook](https://facebook.com/)
+### Google
+1. Google
+2. Chrome
+3. Gmail
+4. Google Search
+5. YouTube
+### Meta
+1. Facebook
+2. Messenger
+3. Instagram
+### Microsoft
+1. Windows
+### Games
+1. Pokemon GO
+
 
 ## References
 - https://en.wikipedia.org/wiki/Surveillance_capitalism

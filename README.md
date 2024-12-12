@@ -1,13 +1,10 @@
 # Ethical Computing
-(insert text)
 
 ## Table of contents
 
 - [Surveillance Capitalism](#surveillance-capitalism)
 - [Applications that apply Surveillance Capitalism](#applications-that-apply-surveillance-capitalism)
 - [Alternatives to said application](#alternatives-to-said-applications)
-- [References](#references)
-> - [TO-DO List](#to-do-list---ethical-computing)
 
 ## Surveillance Capitalism 
 
@@ -33,8 +30,6 @@ These companies also hold personal information that only individuals must posses
 3. Instagram
 ### Microsoft
 1. Windows
-### Games
-1. Pokemon GO
 
 ## Alternatives to said applications
 
@@ -51,19 +46,7 @@ These companies also hold personal information that only individuals must posses
 1. ProtonMail
 2. Tutanota
 ### Messaging Apps
-1. Telegram
-2. Signal
+1. Signal
+2. Session
+3. Threema
 
-## References
-- https://en.wikipedia.org/wiki/Surveillance_capitalism
-- https://www.techtarget.com/whatis/definition/surveillance-capitalism
-
-> # TO-DO LIST - Ethical Computing
-> Google Docs Link: https://docs.google.com/document/d/1bYN6qLsbRcoBtJF3hITylH0ab0MJfvenqn9qTR0N8Qg/edit?tab=t.0
-> - [ ] Introduction (gab) <br/>
-> ## Issues
-> - [ ] Surveillance Capitalism (james)
-> - [ ] Applications that apply Surveillance Capitalism (james)
-> - [ ] Alternatives to said applications (gab)
->
-> - [ ] Issues in A.I.

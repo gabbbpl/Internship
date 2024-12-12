@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Surveillance Capitalism</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="stylesheet" href="../style.css">
+		<link rel="stylesheet" href="../font/fontsheet.css">
+		<script src="../script.js"></script>
+	</head>
+	<body>
+		<div class="header">
+			<h1>Surveillance Capitalism</h1>
+		</div>
+		<div class="row">
+			<div class="introduction">
+				<p class="body"> 
+					The use of monitoring peoples online behaviors and using the data as monetization to sell to big tech companies for their marketing.
+					With online platforms having a major contribution on how the modern world operates, it is beneficial for companies to use the growing trend to boost their economy. Companies use this advancement to exploit its user’s online behaviors such as their search history, recent locations, sites visited, images captured, and even how the way their mouse moves and clicks throughout the screen. Having knowledge to these information, companies can make more  This poses a serious threat to all the users of the platform as it invades their privacy.
+					These companies also hold personal information that only individuals must possess such as their passwords, email addresses, bank account and bank pins, information that only individuals must have knowledge of. By requiring such information as a way to create an account for said platforms, companies get ahold of their valuable data. These data can be easily sold by companies to other bigger companies that would like to obtain them to further boost their popularity and in turn, profits.
+				</p>
+			</div>
+		</div>
+		<div class="row">
+			<div class="issues col-12">
+				<h2>Applications that apply Surveillance Capitalism</h2>
+			</div>
+		</div>
+		<div class="row">
+			<div class="listofapps col-12">
+				<table>
+					<tr>
+						<th>Google</th>
+						<td>Google Search</td>
+						<td>YouTube</td>
+						<td>Gmail</td>
+						<td>Chrome</td>
+					</tr>
+					<tr>
+						<th>Meta</th>
+						<td>Facebook</td>
+						<td>Messenger</td>
+						<td colspan="2">Instagram</td>
+					</tr>
+					<tr>
+						<th>Microsoft</th>
+						<td colspan="4">Windows</td>
+					</tr>
+					
+				</table>
+			</div>
+		</div>
+		<div class="alternatives col-12 row">
+			<h3>Alternatives</h3>
+		</div>
+		<div class="buttonss">
+			<button class="col-3" type="button" onclick="browser()">Browsers</button>
+			<button class="col-3" type="button" onclick="searchEngine()">Search Engines</button>
+			<button class="col-3" type="button" onclick="email()">Email</button>
+			<button class="col-3" type="button" onclick="messagingApps()">Messaging Apps</button>
+		</div>
+		<div class="browsers col-12 row tables">
+			<table id="browsers">
+				<tr>
+					<th class="head">Browser</th>
+					<th class="green">Pros</th>
+					<th class="red">Cons</th>
+				</tr>
+				<tr>
+					<th>Brave</th>
+					<td class="proscons">
+						<ul>
+							<li>Heavy privacy and security focus</li>
+							<li>Brave Rewards (for optionally watching ads)</li>
+							<li>Fast Browsing</li>
+							<li>Customizable UI</li>
+						</ul>
+					</td>
+					<td>
+						<ul>
+							<li>Resource Intensive</li>
+							<li>Limited Extension Support</li>
+							<li>Compatibility Issues</li>
+						</ul>
+					</td>
+				</tr>
+				<tr>
+					<th>Arc</th>
+					<td class="proscons">
+						<ul>
+							<li>Heavy privacy and security focus</li>
+							<li>High Performance</li>
+							<li>Minimalist U.I.</li>
+							<li>Vertical Sidebar</li>
+							<li>A.I. Assistant (macOS only)</li>
+						</ul>
+					</td>
+					<td>
+						<ul>
+							<li>Requires a log-in to use</li>
+							<li>May run slow on some devices</li>
+							<li>Can be hard to get used to</li>
+						</ul>
+					</td>
+				</tr>
+				<tr>
+					<th>Tor (The Onion Router)</th>
+					<td class="proscons">
+						<ul>
+							<li>Extremely privacy and security focused</li>
+							<li>No cookies by default</li>
+						</ul>
+					</td>
+					<td>
+						<ul>
+							<li>Slow speeds</li>
+							<li>Some websites block Tor</li>
+						</ul>
+					</td>
+				</tr>
+				<tr>
+					<th>Firefox</th>
+					<td class="proscons">
+						<ul>
+							<li>Privacy and security focused</li>
+							<li>Customizability</li>
+							<li>High speed</li>
+						</ul>
+					</td>
+					<td>
+						<ul>
+							<li>Resource Intensive</li>
+							<li>Compatibility Issues</li>
+						</ul>
+					</td>
+				</tr>
+			</table>
+			<table id="searchEngines">
+				<tr>
+					<th>Search Engines</th>
+					<th class="green">Pros</th>
+					<th class="red">Cons</th>
+				</tr>
+				<tr>
+					<th>DuckDuckGo</th>
+					<td class="proscons">
+						<ul>
+							<li>Free</li>
+							<li>Heavy privacy and security focus</li>
+							<li>Own search index</li>
+							<li>A.I. Assist</li>
+						</ul>
+					</td>
+					<td>
+						<ul>
+							<li>No personalization (because it doesn't keep data)</li>
+							<li>Still has ads, but at least it's not targeted</li>
+						</ul>
+					</td>
+				</tr>
+				<tr>
+					<th>Brave Search</th>
+					<td class="proscons">
+						<ul>
+							<li>Free</li>
+							<li>Heavy privacy and security focus</li>
+							<li>Own search index</li>
+							<li>A.I. Assist</li>
+						</ul>
+					</td>
+					<td>
+						<ul>
+							<li>Collects analytics by default (can be turned off)</li>
+							<li>Still has ads, but at least it's not targeted</li>
+						</ul>
+					</td>
+				</tr>
+				<tr>
+					<th>Kagi</th>
+					<td class="proscons">
+						<ul>
+							<li>Very fast compared to other engines</li>
+							<li>Own search index</li>
+							<li>The most privacy and security focused</li>
+							<li>No ads</li>
+							<li>Strong A.I. assist</li>
+					</td>
+					<td>
+						<ul>
+							<li>Subscription-based (starts from $5/month)</li>
+						</ul>
+					</td>
+				</tr>
+			</table>
+			<table id="email">
+				<tr>
+					<th>Email</th>
+					<th class="green">Pros</th>
+					<th class="red">Cons</th>
+				</tr>
+				<tr>
+					<th>ProtonMail</th>
+					<td class="proscons">
+						<ul>
+							<li>Free (has premium version though)</li>
+							<li>End-to-end encrypted</li>
+							<li>Extremely privacy and security focused</li>
+							<li>Hide my email feature</li>
+							<li>Extra email addresses</li>
+						</ul>
+					</td>
+					<td>
+						<ul>
+							<li>Only 1GB of free storage</li>
+							<li>Premium tiers start at $10/month</li>
+						</ul>
+					</td>
+				</tr>
+				<tr>
+					<th>Tutanota</th>
+					<td class="proscons">
+						<ul>
+							<li>Free (has premium version though)</li>
+							<li>End-to-end encrypted</li>
+							<li>Extremely privacy and security focused</li>
+							<li>Hide my email feature</li>
+							<li>Extra email addresses</li>
+						</ul>
+					</td>
+					<td>
+						<ul>
+							<li>Only 1GB of free storage</li>
+							<li>Premium tiers start at $3/month</li>
+						</ul>
+					</td>
+				</tr>
+				<tr>
+			</table>
+			<table id="messagingApps">
+				<tr>
+					<th>Messaging Apps</th>
+					<th class="green">Pros</th>
+					<th class="red">Cons</th>
+				</tr>
+				<tr>
+					<th>Signal</th>
+					<td class="proscons">
+						<ul>
+							<li>By a non-profit organization</li>
+							<li>Open-source</li>
+							<li>End-to-end encryption (mandatory)</li>
+							<li>Does not log IP addresses</li>
+							<li>Free</li>
+						</ul>
+					</td>
+					<td>
+						<ul>
+							<li>Registration requires a phone number</li>
+						</ul>
+					</td>
+				</tr>
+				<tr>
+					<th>Session</th>
+					<td class="proscons">
+						<ul>
+							<li>End-to-end encryption</li>
+							<li>Does not require phone number or email to register</li>
+							<li>Open-source</li>
+							<li>Does not log IP addresses and metadata</li>
+							<li>Free</li>
+						</ul>
+					</td>
+					<td>
+						<ul>
+							<li>No 2FA</li>
+							<li>Connecting with others may be hard because of the unique identifier</li>
+						</ul>
+					</td>
+				</tr>
+				<tr>
+					<th>Threema</th>
+					<td class="proscons">
+						<ul>
+							<li>End-to-end encryption</li>
+							<li>Does not require phone number or email to register</li>
+							<li>GDPR Compliant</li>
+							<li>Does not log IP addresses or metadata</li>
+						</ul>
+					</td>
+					<td>
+						<ul>
+							<li>Paid</li>
+							<li>No 2FA</li>
+							<li>Small user count</li>
+						</ul>
+					</td>
+				</tr>
+			</table>
+		</div>
+	</body>
+</html>

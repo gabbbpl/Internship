@@ -197,3 +197,13 @@ button:hover{
 .buttonss button{
 	padding: 2vh;
 }
+
+.answers{
+	font-size: 120%;
+	background-color: lightgrey;
+	text-align: center;
+	color: black;
+	padding: 4vw 5vw 4vw 5vw;
+	line-height: 3em;
+	font-weight: bold;
+}

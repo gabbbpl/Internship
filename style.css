@@ -136,15 +136,3 @@ a:visited {
 	color: black;
 	padding: 4vw 5vw 4vw 5vw;
 }
-
-.wrap {
-	display: inline-block;
-	text-align: center;
-}
-
-.icons { 
-	position: relative; 
-	margin:20 px;
-
-}
-
